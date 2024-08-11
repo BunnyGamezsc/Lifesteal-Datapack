@@ -1,0 +1,1 @@
+tag @s remove lsbg_lifestealPlayer
