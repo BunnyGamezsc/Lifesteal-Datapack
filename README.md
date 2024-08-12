@@ -1,6 +1,9 @@
 # Lifesteal
 ### by BunnyGamez
 
+This is my Lifesteal Datapack!
+
+
 Credits:
 <br>
 [BunnyGamez](https://github.com/BunnyGamezsc)
