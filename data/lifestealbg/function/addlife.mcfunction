@@ -1,1 +1,1 @@
-scoreboard players add @s lsbg_kills 2
+scoreboard players add @s lsbg_kills 1
