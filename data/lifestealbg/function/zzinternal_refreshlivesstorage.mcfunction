@@ -1,5 +1,5 @@
 # Prepare Stored Player Data for mutation
-say refreshing
+# say refreshing
 
 function #rx.playerdb:api/v2/get/self
 

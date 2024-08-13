@@ -1,7 +1,7 @@
 # Counterintuitive but this function takes one heart away from the player!!
 # In this function *** HANDLE PLAYER DEATH ***
 
-say take a heart
+# say take a heart
 
 tellraw @s {"text": "You lost another life", "color": "red"}
 
