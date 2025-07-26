@@ -1,8 +1,8 @@
 # Lifesteal
 ### by BunnyGamez
 
-This is my Lifesteal Datapack!
-
+This Datapack replicates the Lifesteal Plugin in vanilla minecraft!!
+## Download and star this repo!
 
 Credits:
 <br>
